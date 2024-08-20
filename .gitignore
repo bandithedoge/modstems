@@ -1,0 +1,4 @@
+builddir/
+result*
+.direnv/
+out/
